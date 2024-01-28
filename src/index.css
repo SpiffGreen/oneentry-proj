@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-content {
+  padding: 1rem;
+}
+
+.my-content h1 {
+  font-size: 3rem;
+  margin: 1rem 0;
+}
+
+.my-content h2 {
+  font-size: 1.75rem;
+  margin: 1rem 0;
+}
+
+.my-content p {
+  font-size: 1rem;
+  margin: .5rem 0;
+}
